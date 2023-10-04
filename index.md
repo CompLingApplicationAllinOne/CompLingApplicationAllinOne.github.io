@@ -2,13 +2,11 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Preface
+
+这是一个计算语言学硕博申请相关信息的网站，目前由三位博士生共同维护。我们建立此项目的初衷是考虑到很多本科在中文系/外语系的学生在寻求技术方向的硕博申请，而关于计算语言学的大量信息质量良莠不齐，趁机割韭菜立牌坊的还是存在。为了保证信息的公开与透明，鼓励后来者，维护开源精神，我们建立此项目。网站将会分为多个部分，用绝大多数人听得懂的人话来分享信息，包括但不限于申请经验，学术进展，资源分享等。
 
 [Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Header 1
 
